@@ -56,5 +56,6 @@ public class Main {
         System.out.println("Conteúdos Inscritos de Michele:" + devMichele.getConteudosInscritos());
         System.out.println("Conteúdos Concluidos de Michele:" + devMichele.getConteudosConcluidos());
         System.out.println("XP: " + devMichele.calcularTotalXp());
+        System.out.println("XP: " + devMichele.calcularTotalXp());
     }
 }
