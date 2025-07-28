@@ -1,7 +1,6 @@
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
-<p align="center"> 📜 <a href="https://academiapme-my.sharepoint.com/:p:/g/personal/camila_cavalcante_dio_me/EaXyYOjBaFpZjkxhexMo5EcBKMEEAI5t5aHlsTjnBQJlUw?e=nxdB6C"> SLIDES APRESENTADO NO PROJETO </a> 📜 </P>
-<p> Sejam bem-vindos <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS. </p>
+<p><strong> SEJAM BEM-VINDOS!! APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS. </p>
     💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
 
 
@@ -13,7 +12,7 @@
 ✅ Java JDK 11<br>
 ✅ IDE para desenvolvimento Java (usei IntelliJ)<br>
 ✅ Git<br>
-✅ Conta no GitHub<br>
+✅ GitHub<br>
 </p>
 
 ----
